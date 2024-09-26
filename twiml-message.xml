@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Say>HyTech Racing has a message for you.</Say>
-    <Play>https://github.com/GeneWC/TwilioTest/raw/refs/heads/main/New_Recording_114.m4a</Play>
+
     <Hangup/>
 </Response>
